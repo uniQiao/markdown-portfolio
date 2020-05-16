@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+1. Heart
+   1. :yellow_heart:
+   2. :blue_heart:
+   3. :heart:
+2. Clock
+   * :clock1:
+   * :clock11:
+   * :clock6:
+   * :clock730:
+* Moon
+  1. :full_moon_with_face:
+  2. :new_moon_with_face:
